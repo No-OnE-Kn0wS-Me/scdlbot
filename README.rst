@@ -2,64 +2,7 @@ Music Downloader Telegram Bot aka scdlbot
 =========================================
 
 
-.. image:: https://img.shields.io/badge/telegram-@scdlbot-blue.svg
-        :target: https://t.me/scdlbot
-        :alt: Telegram Bot
-
-.. image:: https://img.shields.io/github/license/gpchelkin/scdlbot.svg
-        :target: https://github.com/gpchelkin/scdlbot/blob/master/LICENSE
-        :alt: MIT License
-
-.. image:: https://readthedocs.org/projects/scdlbot/badge/?version=latest
-        :target: https://scdlbot.readthedocs.io/
-        :alt: Documentation Status
-
-.. image:: https://img.shields.io/pypi/v/scdlbot.svg
-        :target: https://pypi.org/project/scdlbot
-        :alt: PyPI Version
-
-.. image:: https://travis-ci.com/gpchelkin/scdlbot.svg?branch=master
-        :target: https://travis-ci.com/gpchelkin/scdlbot
-        :alt: Travis CI Build Status
-
-.. image:: https://github.com/gpchelkin/scdlbot/workflows/build/badge.svg?branch=master&event=push
-        :target: https://github.com/gpchelkin/scdlbot/actions?query=workflow%3Abuild
-        :alt: GitHub Actions Build Status
-
-.. image:: https://github.com/gpchelkin/scdlbot/workflows/CodeQL/badge.svg?branch=master&event=push
-        :target: https://github.com/gpchelkin/scdlbot/actions?query=workflow%3ACodeQL
-        :alt: GitHub Actions CodeQL Status
-
-.. image:: https://deepsource.io/gh/gpchelkin/scdlbot.svg/?label=active+issues&show_trend=true
-        :target: https://deepsource.io/gh/gpchelkin/scdlbot/?ref=repository-badge
-        :alt: DeepSource Active Issues
-
-.. image:: https://deepsource.io/gh/gpchelkin/scdlbot.svg/?label=resolved+issues&show_trend=true
-        :target: https://deepsource.io/gh/gpchelkin/scdlbot/?ref=repository-badge
-        :alt: DeepSource Resolved Issues
-
-.. image:: https://codeclimate.com/github/gpchelkin/scdlbot/badges/issue_count.svg
-        :target: https://codeclimate.com/github/gpchelkin/scdlbot
-        :alt: Code Climate Issue Count
-
-.. image:: https://api.codacy.com/project/badge/Grade/7dfb6d8e7a094987b303e9283fc7368c
-        :target: https://www.codacy.com/app/gpchelkin/scdlbot
-        :alt: Codacy Build Status
-
-.. image:: https://codebeat.co/badges/57243b9d-2269-4f31-a35b-6aedd11626d2
-        :target: https://codebeat.co/projects/github-com-gpchelkin-scdlbot-master
-        :alt: Codebeat Quality
-
-.. image:: https://bettercodehub.com/edge/badge/gpchelkin/scdlbot?branch=master
-        :target: https://bettercodehub.com/results/gpchelkin/scdlbot
-        :alt: Better Code Hub Compliance
-
-.. image:: https://www.codefactor.io/repository/github/gpchelkin/scdlbot/badge
-        :target: https://www.codefactor.io/repository/github/gpchelkin/scdlbot
-        :alt: CodeFactor
-
-Telegram Bot for downloading MP3 rips of tracks/sets from
-SoundCloud, Bandcamp, YouTube with tags and artwork.
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/No-OnE-Kn0wS-Me/scdlbot)
 
 
 * Free software: `MIT License <https://github.com/gpchelkin/scdlbot/blob/master/LICENSE>`__
